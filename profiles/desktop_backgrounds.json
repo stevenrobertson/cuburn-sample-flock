@@ -1,0 +1,16 @@
+{ "type": "profile"
+, "width": 5120
+, "height": 1600
+, "skip": 0
+, "end": 1
+, "spp": 3000
+, "filters":
+  { "bilateral":
+    { "spatial_std": 1.667
+    , "density_std": 1.333
+    , "gradient": 0.75 }
+  }
+, "output":
+  { "type": "jpeg"
+  }
+}

@@ -1,0 +1,11 @@
+{ "type": "profile"
+, "width": 3840
+, "height": 2160
+, "spp": 3000
+, "skip": 48
+, "filters":
+  { "bilateral":
+    { "spatial_std": 1.667
+    , "density_std": 1.333 }
+  }
+}

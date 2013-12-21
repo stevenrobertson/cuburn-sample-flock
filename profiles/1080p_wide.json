@@ -1,0 +1,10 @@
+{ "type": "profile"
+, "width": 2560
+, "height": 1080
+, "spp": 2250
+, "shard": 1
+, "output":
+  { "type": "x264"
+  , "crf": 13
+  }
+}

@@ -1,0 +1,15 @@
+{ "type": "profile"
+, "width": 480
+, "height": 270
+, "skip": 1
+, "filters":
+  { "bilateral":
+    { "spatial_std": 1.667
+    , "density_std": 1.333
+    , "gradient": 0.5 }
+  }
+, "output":
+  { "type": "x264"
+  , "profile": "444"
+  }
+}
