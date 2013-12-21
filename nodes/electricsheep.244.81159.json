@@ -1,0 +1,111 @@
+{ "author": {"name": "freakiebeat", "url": "http://www.freakiebeat.com"}
+, "camera":
+  { "center": {"x": 0, "y": 0}
+  , "dither_width": 1
+  , "rotation": 27
+  , "scale": 0.277718
+  }
+, "filters":
+  { "colorclip": {"gamma": 3, "gamma_threshold": 0.01, "vibrance": 1}
+  , "de": {"curve": 0.6, "minimum": 0, "radius": 11}
+  , "logscale": {"brightness": 10}
+  }
+, "name": "electricsheep.244.81159"
+, "palette":
+  [ "rgb8"
+  , "WjIqaj81kHJvgKG9iZ6vf565ZISdPkVGOTIkPC8dPzQaQUIcREIcSEAbTzsYWjcX"
+  , "YzUZaDgZaj4cZzkZYDUXVi0WTCMTQhoSQRwTQyEZBhAVAAACAAAAAAAAEg0ItQMV"
+  , "yg8Kl2Eqx5Ri2IdLxhsf3xsr3iAu6SM54jc8KygvDhkgAAcHAAAAAAAAAAAAAQED"
+  , "DRYeHCUtICoxISsyIy0yIiYqERAVAAAAAAAAAAAAAAAAAAAAAAAAAwYAHiYpfn51"
+  , "9v//1befclxDGSQuCxMcAAAADRYcGyQqExIQBwAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  , "SkVNZVxglmphwl5Iz14+AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFg8G"
+  , "Ji0tKTA3KC84Iy00LjArygsO5QgL2AYEvg0DUwAACwIAAAAAAAAAAAAAAAAAAAAA"
+  , "AAAAAAAAAAAAAAAAaDkaWS0WSycWNCQWJyAXHiAWICMVKiMTNCYSPSYSRyUSVCca"
+  , "WjIqaj81kHJvgKG9iZ6vf565ZISdPkVGOTIkPC8dPzQaQUIcREIcSEAbTzsYI24A"
+  , "LXQAN3sARIMATogAZZEAfZsArzsnrjcjrjcjwDsn0jsnAG2MAFWHAEGAAB56DwB1"
+  , "NABvWwBlewBokABwpQBxvQBw1QFw4w1m0hVRvQAiowAOUx8AgBAAjh8Any8Arj0A"
+  , "vUkAy1YA2GcA4YAA65wA9bwA/NcA/OsA+e8H8LwI44EH2VMIzycJxQEBuAAXrgAg"
+  , "owAqmQAtoF9LbQAfBiyyFFmcBWjwWajMb57Rumlz/1cV/xwA/xoA/xAApw8AQQoA"
+  , "BQ4AAB0AAE4ABmckOIEZcXEJj1QARyAAEAMsCgckVxY7ySsy/0wH/0AA/0sAyUEA"
+  , "fTwAg00fg2c8wZNp97t9/7pv/7s7/6gS/743//ph//qD/7dp/3Yg/2UB/6Aa/8tX"
+  , "dyYAfC4AeSUAcx8AZSUDVjEHTD0JR0MKQkQLQCsLOyINOCoNLkdKSY3DZqzpd67c"
+  ]
+, "type": "node"
+, "xforms":
+  { "0":
+    { "color": 0.654832
+    , "color_speed": 0.5
+    , "pre_affine":
+      { "angle": [11.3986, -360]
+      , "magnitude": {"x": 0.768719, "y": 1.27136}
+      , "offset": {"x": 0.650259, "y": -0.271795}
+      , "spread": 29.5461
+      }
+    , "variations":
+      { "eyefish": {"weight": 0.626372}
+      , "julia": {"weight": 0.373628}
+      }
+    , "weight": 0.25
+    }
+  , "1":
+    { "color": 0.775463
+    , "color_speed": 0.98
+    , "pre_affine":
+      { "angle": [240.27, -360]
+      , "magnitude": {"x": 0.110377, "y": 1.12594}
+      , "offset": {"x": -0.650507, "y": -0.693031}
+      , "spread": 75.9624
+      }
+    , "variations": {"blur": {"weight": 0.2}, "gaussian_blur": {"weight": 0.33}}
+    , "weight": 0.33
+    }
+  , "2":
+    { "color": 0.493401
+    , "color_speed": 0.5
+    , "pre_affine":
+      { "angle": [267.537, -360]
+      , "magnitude": {"x": 0.801646, "y": 0.801646}
+      , "offset": {"x": -1.1303, "y": -0.931351}
+      , "spread": 45
+      }
+    , "variations": {"julian": {"dist": -1, "power": 2, "weight": 1}}
+    , "weight": 0.5
+    }
+  , "3":
+    { "color": 0.452463
+    , "color_speed": 0.5
+    , "pre_affine":
+      { "angle": [315, -360]
+      , "magnitude": {"x": 0.020763, "y": 0.020763}
+      , "offset": {"x": 0.181714, "y": -0.121719}
+      , "spread": 45
+      }
+    , "variations": {"spherical": {"weight": 1}}
+    , "weight": 0.5
+    }
+  , "4":
+    { "color": 0.616213
+    , "color_speed": 0.9
+    , "pre_affine":
+      { "angle": [353.211, -360]
+      , "magnitude": {"x": 0.108243, "y": 0.108243}
+      , "offset": {"x": 0, "y": -0}
+      , "spread": 45
+      }
+    , "variations": {"julian": {"dist": 1, "power": 6, "weight": 1}}
+    , "weight": 0.5
+    }
+  , "5":
+    { "color": 0.689777
+    , "color_speed": 0.5
+    , "pre_affine":
+      { "angle": [119.507, -360]
+      , "magnitude": {"x": 1, "y": 1}
+      , "offset": {"x": 0.393503, "y": 0.514231}
+      , "spread": 44.5714
+      }
+    , "variations": {"julian": {"dist": -1, "power": 2, "weight": 1}}
+    , "weight": 0.5
+    }
+  }
+}

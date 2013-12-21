@@ -1,0 +1,83 @@
+{ "author": {"name": "freakiebeat", "url": "http://www.freakiebeat.com"}
+, "camera":
+  { "center": {"x": 1.5, "y": 0.1}
+  , "dither_width": 1
+  , "rotation": -169
+  , "scale": 1
+  }
+, "filters":
+  { "colorclip": {"gamma": 5, "gamma_threshold": 0.01, "vibrance": 1}
+  , "de": {"curve": 0.6, "minimum": 0, "radius": 11}
+  , "logscale": {"brightness": 9}
+  }
+, "final_xform":
+  { "color": 0
+  , "color_speed": 0
+  , "pre_affine":
+    { "angle": 75.5462
+    , "magnitude": {"x": 0.25537, "y": 0.226028}
+    , "offset": {"x": 0, "y": -0}
+    , "spread": 51.6143
+    }
+  , "variations": {"spherical": {"weight": 1}}
+  }
+, "name": "electricsheep.244.80692"
+, "palette":
+  [ "rgb8"
+  , "w6WwtZKRmZBuhIxej6Z3stq10vTg0O3Zyt7MxtbHibiHQXsrLF0OT1EXOB8jLB4o"
+  , "PSQmS2AoJXIsM5JkVKbTZ4b0S8LJQHMhSEIRSUsfSlE+UlRQdnZWuzM13Qt52Qye"
+  , "vg7Qlg/LoB11SjUdHB8PLCEURxk5QBlUKCNhOnp3R4dgSZmPSFu+ckTRWzu0NSh6"
+  , "JR9dJj5UL0MzNDowOUQrUlYWYFYHb4AhisJ4teO3eMOkIEKEGAVlDiZrIHdpK31K"
+  , "LIaPcyi0xiSdmiWQNxdBEAkVOBMzfzIYoocTrzUpo1/JfoXWdXHDbVefaEuNcFeJ"
+  , "e2yDfXaAhICSjqm2ksjCdJafNzlNGxkkSTdUtWSV5XKLtFpXUjwlIR0OQCUZfyZc"
+  , "limegSZRSTwbJC0SJS8PJzIIKDQEIywLGBsREhMPDRAKBAkDAQYBFigGa1YMjT8N"
+  , "awgSJQIoAwAGAx0lCUMKFVQSJmUerZ9Z9rXEwH9ShIkQaadLmcWmP3qNFgpVBR00"
+  , "ARMQFDRBO0hvKStYIRpCZEJ7tHuzo3CukGanQiNkDAMhVAZjpAdqaUaQc3d7P1ts"
+  , "FU9dWRl4ky8ev3Ge6+fs53234kIX31WC3JHSf2rASYSkSEWXd0GKmUxHhKhNpKNJ"
+  , "oHpGYXojDFQMFUFFHhk3LTiCL3XOJT10Cw4bKz9mSoCyQrDDN9S4aZnBk5GvTGNb"
+  , "FxgRChYKBBUUPHs93eGwm9urhrXUks/jnevzarSAWXU+YmY6WE02GTkYBhQZBQ4J"
+  , "AgMBW3QfyOUIP5BhMTQ7QzVFTzo3Qz40NjcvKykdHxcPR2lCh6izNmMqEwcCKhMj"
+  , "ODVBKyY5HxkxHC0sIikeIUscA20RHDsXBwgGfIBX+NCR6aCh26vJ0J+/xJS0lY+w"
+  , "h5ucn7KuucjBXWNrDQsOYy9ZuBk5xD+VxmnQkGBYSFA6Ii4fBwwIDSAMFTQFHWlo"
+  , "YUeeJi+ZB0iUdwl9ZisJkUJHvZmqZTprCwcaMWWCc+qtx9Z1wXWDXmQtAgcEZGU5"
+  ]
+, "type": "node"
+, "xforms":
+  { "0":
+    { "color": 0.59
+    , "color_speed": 0.01
+    , "pre_affine":
+      { "angle": 194.318
+      , "magnitude": {"x": 0.0675459, "y": 0.0661962}
+      , "offset": {"x": -0.0742953, "y": -0.22739}
+      , "spread": 43.7811
+      }
+    , "variations": {"linear": {"weight": 0.025}, "spherical": {"weight": 1}}
+    , "weight": 100
+    }
+  , "1":
+    { "color": 0.42
+    , "color_speed": 1
+    , "pre_affine":
+      { "angle": [62.099, -360]
+      , "magnitude": {"x": 0.864942, "y": 0.62649}
+      , "offset": {"x": 0.517134, "y": -0.801962}
+      , "spread": 133.807
+      }
+    , "variations": {"julia": {"weight": 1}, "spherical": {"weight": 0.25}}
+    , "weight": 1
+    }
+  , "2":
+    { "color": 0.59
+    , "color_speed": 0.01
+    , "pre_affine":
+      { "angle": 194.318
+      , "magnitude": {"x": 0.0675459, "y": 0.0661962}
+      , "offset": {"x": -0.0742953, "y": -0.22739}
+      , "spread": 43.7811
+      }
+    , "variations": {"linear": {"weight": 0.025}, "spherical": {"weight": 1}}
+    , "weight": 100
+    }
+  }
+}

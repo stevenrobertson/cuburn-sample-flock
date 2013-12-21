@@ -1,0 +1,75 @@
+{ "author": {"name": "freakiebeat", "url": "http://www.freakiebeat.com"}
+, "camera":
+  { "center": {"x": -0.25, "y": -1}
+  , "dither_width": 1
+  , "rotation": 69
+  , "scale": 0.15
+  }
+, "filters":
+  { "colorclip": {"gamma": 3, "gamma_threshold": 0.01, "vibrance": 1}
+  , "de": {"curve": 0.6, "minimum": 0, "radius": 11}
+  , "logscale": {"brightness": 25}
+  }
+, "name": "electricsheep.244.81096"
+, "palette":
+  [ "rgb8"
+  , "WjIqaj81kHJvgKG9iZ6vf565ZISdPkVGOTIkPC8dPzQaQUIcREIcSEAbTzsYWjcX"
+  , "YzUZaDgZaj4cZzkZYDUXVi0WTCMTQhoSQRwTQyEZBhAVAAACAAAAAAAAEg0ItQMV"
+  , "yg8Kl2Eqx5Ri2IdLxhsf3xsr3iAu6SM54jc8KygvDhkgAAcHAAAAAAAAAAAAAQED"
+  , "DRYeHCUtICoxISsyIy0yIiYqERAVAAAAAAAAAAAAAAAAAAAAAAAAAwYAHiYpfn51"
+  , "9v//1befclxDGSQuCxMcAAAADRYcGyQqExIQBwAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  , "SkVNZVxglmphwl5Iz14+AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFg8G"
+  , "Ji0tKTA3KC84Iy00LjArygsO5QgL2AYEvg0DUwAACwIAAAAAAAAAAAAAAAAAAAAA"
+  , "AAAAAAAAAAAAAAAAaDkapysAvzMA1z8A70sA/1YA/18A/2gA/2gA/2sA92sA4msA"
+  , "z2sAt28JpW8Tj28ffm8rZ28zU3A/P3BIK3NTE3NbAHNnAHNwAG9vAGtvAGZvAF9r"
+  , "AFtrAFdrAFNoAE5nAEhnAENnAD9mADtmADNjAC9jACtjACdfACdXACNPECNHIyM7"
+  , "MyMzQyMrViMjZh8Ydh8Phh8GlxwA4w1m0hVRvQAiowAOUx8AgBAAjh8Any8Arj0A"
+  , "vUkAy1YA2GcA4YAA65wA9bwA/NcA/OsA+e8H8LwI44EH2VMIzycJxQEBuAAXrgAg"
+  , "owAqmQAtoF9LbQAfBiyyFFmcBWjwWajMb57Rumlz/1cV/xwA/xoA/xAApw8AQQoA"
+  , "BQ4AAB0AAE4ABmckOIEZcXEJj1QARyAAEAMsCgckVxY7ySsy/0wH/0AA/0sAyUEA"
+  , "fTwAg00fg2c8wZNp97t9/7pv/7s7/6gS/743//ph//qD/7dp/3YgAAAABgAAHwAA"
+  , "NwAATwAAZggAfhIAlR8ApysAvzMA1z8A70sA/1YA/18A/2gA/2gA/2sA92sA4msA"
+  ]
+, "type": "node"
+, "xforms":
+  { "0":
+    { "color": 0.75
+    , "color_speed": 0.4995
+    , "pre_affine":
+      { "angle": 10.6639
+      , "magnitude": {"x": 0.921804, "y": 0.921804}
+      , "offset": {"x": -0.638092, "y": 1.50072}
+      , "spread": 45
+      }
+    , "variations": {"linear": {"weight": 0.82}, "spherical": {"weight": 0.18}}
+    , "weight": 1.5
+    }
+  , "1":
+    { "color": 0.75
+    , "color_speed": 0.4995
+    , "pre_affine":
+      { "angle": 93.2499
+      , "magnitude": {"x": 1.29324, "y": 1.29324}
+      , "offset": {"x": 0.316356, "y": 0.427589}
+      , "spread": 44.6576
+      }
+    , "variations": {"julian": {"dist": -1, "power": 2, "weight": 0.75}}
+    , "weight": 0.5
+    }
+  , "2":
+    { "color": 0.97
+    , "color_speed": 0.5
+    , "pre_affine":
+      { "angle": [219.539, -360]
+      , "magnitude": {"x": 2.00001, "y": 1}
+      , "offset": {"x": -0.030264, "y": -0.015132}
+      , "spread": 1.05266e-05
+      }
+    , "variations":
+      { "julian": {"dist": 1, "power": 293, "weight": 0.21671}
+      , "sinusoidal": {"weight": 1.36968}
+      }
+    , "weight": 0.75
+    }
+  }
+}

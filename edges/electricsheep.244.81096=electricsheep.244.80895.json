@@ -1,0 +1,7 @@
+{ "blend": {"duration": 2.54388}
+, "link":
+  { "dst": "nodes/electricsheep.244.80895@-0.25"
+  , "src": "nodes/electricsheep.244.81096@0.25"
+  }
+, "type": "edge"
+}

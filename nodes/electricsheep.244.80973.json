@@ -1,0 +1,93 @@
+{ "author":
+  { "name": "cqfd93"
+  , "url": "http://sylvie.gallet.free.fr/index.html"
+  }
+, "camera":
+  { "center": {"x": 0.00153801, "y": 1.88346e-18}
+  , "dither_width": 1
+  , "rotation": 1800
+  , "scale": 1.96224
+  }
+, "filters":
+  { "colorclip": {"gamma": 2.68, "gamma_threshold": 0.01, "vibrance": 1}
+  , "de": {"curve": 0.6, "minimum": 0, "radius": 11}
+  , "logscale": {"brightness": 3}
+  }
+, "name": "electricsheep.244.80973"
+, "palette":
+  [ "rgb8"
+  , "cLeFeryLhMGRjsaXmcyco9Girdaot9uuwuC0zOW61urA4PDG6/XM9frS///Y//zP"
+  , "//nH//a+//O1//Ct/+2k/+qc/+eT/+SK/+GC/955/9tw/9lo/9Zf/9NW/9BO/81F"
+  , "/8o8/8c0/8Qr/8Ej/74a/7sR/7gJ/7UA/K8A+KkA9KMA8Z0A7pcA6pEA5osA44UA"
+  , "4H8A3HkA2HMA1W0A0mcAzmEAylsAx1QAxE4AwEgAvEIAuTwAtjYAsjAArioAqyQA"
+  , "qB4ApBgAoBIAnQwAmgYAlgAAmAAHmgAPnAAWngAeoAAlogAtpAA0pgA8pwBDqQBK"
+  , "qwBSrQBZrwBhsQBoswBwtQB3ugB6vgB8wwB/yACBzACE0QCG1gCJ2gCL3wCO5ACQ"
+  , "6ACT7QCV8gCY9gCa+wCd7gCX4gCR1QCLyACFvAB/rwB5owB0lgBuiQBofQBicABc"
+  , "YwBWVwBQSgBKQQBWOABiLgBvJQB7HACHEgCUCQCgAACsCwukFRacICGTKiyLNTeD"
+  , "P0J7Sk1zVVhqX2Niam5adHhSf4NKiY5ClJk5n6Qxqa8ptLohvsUZydAQ09sI3uYA"
+  , "1eADzNkFwtMIuc0KsMcNpsAQnboSlLQVi60YgqcaeKEdb5sgZpQiXI4lU4gnSoEq"
+  , "QXstOHUvLm4yJWg0HGI3Elw6CVU8AE8/A1I+BlY8CFk7C105DmA4EWM3E2c1Fmo0"
+  , "GW4yHHExH3QwIXguJHstJ38rKoIqLIYoL4knMowmNZAkN5MjOpchPZogQpwsRp43"
+  , "S6BDT6NPVKVbWKdmXalyYqt+Zq2Ka7CVb7KhdLSteba5fbjEgrrQhr3ci7/oj8Hz"
+  , "lMP/kLz9jbb8ia/6hqn4gqL3fpz1e5Xzd47yc4jwcIHubHvsaHTrZW7pYWfnXmHm"
+  , "WlrkWFzfVl/ZVGHUUmPOUGXJTmjDTGq+Smy4SG+zRnGtRHOoQnWiQHidPnqXPHyS"
+  , "On6MOIGHNoOBNIV8Moh2MIpxLoxrLI5mKpFgKJNbMphhPJ1nR6JtUahzW615ZbJ/"
+  ]
+, "type": "node"
+, "xforms":
+  { "0":
+    { "color": 0.143551
+    , "color_speed": 0.5
+    , "post_affine":
+      { "angle": 46.4481
+      , "magnitude": {"x": 0.0252451, "y": 0.0252451}
+      , "offset": {"x": 0.020531, "y": -0.024474}
+      , "spread": 45
+      }
+    , "pre_affine":
+      { "angle": [29.7415, -360]
+      , "magnitude": {"x": 0.760565, "y": 0.760565}
+      , "offset": {"x": -0.797333, "y": 1.2082}
+      , "spread": 45
+      }
+    , "variations": {"cosine": {"weight": 0.454}, "polar": {"weight": 2.373}}
+    , "weight": 0.65
+    }
+  , "1":
+    { "color": 0.30948
+    , "color_speed": 0.5
+    , "pre_affine":
+      { "angle": [225, -360]
+      , "magnitude": {"x": 1, "y": 1}
+      , "offset": {"x": 0, "y": -0}
+      , "spread": 45
+      }
+    , "variations": {"julia": {"weight": 1}}
+    , "weight": 1
+    }
+  , "2":
+    { "color": 0.684878
+    , "color_speed": 0
+    , "pre_affine":
+      { "angle": 315
+      , "magnitude": {"x": 1, "y": 1}
+      , "offset": {"x": 0, "y": -0}
+      , "spread": 45
+      }
+    , "variations": {"linear": {"weight": 1}}
+    , "weight": 3.102
+    }
+  , "3":
+    { "color": 0.396331
+    , "color_speed": 0.5
+    , "pre_affine":
+      { "angle": [257.502, -360]
+      , "magnitude": {"x": 0.384115, "y": 0.384115}
+      , "offset": {"x": 0, "y": -0}
+      , "spread": 45
+      }
+    , "variations": {"sinusoidal": {"weight": 1}}
+    , "weight": 0.05
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{ "blend": {"duration": 0.5, "xform_sort": "natural"}
+, "link":
+  { "dst": "nodes/electricsheep.244.80725@0.25"
+  , "src": "nodes/electricsheep.244.80725@-0.25"
+  }
+, "type": "edge"
+}

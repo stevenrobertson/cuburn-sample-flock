@@ -1,0 +1,4 @@
+{ "base": "nodes/electricsheep.244.00216"
+, "type": "node"
+, "xforms.0.variations.julia.weight": 0.02
+}

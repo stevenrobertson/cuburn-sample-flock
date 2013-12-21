@@ -1,0 +1,8 @@
+{ "blend": {"duration": 2.22367}
+, "link":
+  { "dst": "nodes/electricsheep.244.00216@-0.25"
+  , "src": "nodes/electricsheep.244.00216@0.25"
+  }
+, "type": "edge"
+, "xforms.src.0.variations.julia.weight": [0.5, 2]
+}
